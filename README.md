@@ -29,5 +29,5 @@ Here are some general tips to keep in mind when using this template to create ef
 - **Be consistent:** Use the same fonts, colors, and styles throughout your presentation to create a cohesive visual identity.
 - **Use data effectively:** If you are presenting data, use clear and easy-to-read charts or tables to help your audience understand the information.
 
-We hope this template and toolkit help you create engaging and effective presentations. If you have any questions or feedback, please feel free to create an issue or contact us at **<communication@gbif.org>**.
+We hope this template and toolkit help you create engaging and effective presentations. If you have any questions or feedback, please feel free to create an [issue](https://github.com/gbif/ppt-template/issues/new/choose) or contact us at **<communication@gbif.org>**.
 
