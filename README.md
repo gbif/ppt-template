@@ -7,7 +7,7 @@ Welcome to the GBIF PowerPoint template repository. This template is designed to
 Here's what you'll find:
 
 - `GBIF-2023.potx`: This is the PowerPoint template file you should use to create or adapt presentations into the new format.
-- `/ppt-template/toolkit`: This folder contains different presentations with examples and ready-to-use resources such as icons, charts, tables, iconographics, and collages. 
+- `/ppt-template/toolkit`: This folder contains different presentations with examples and ready-to-use resources such as icons, charts, tables, infographics, and collages. 
 - `/fonts`: This folder contains the fonts used in the template. If PowerPoint is not including them correctly, you can download them and install them manually from this folder.
 - `/Theme files`: This folder contains PowerPoint files needed in case the template is not carrying over fonts and colors correctly.
 
