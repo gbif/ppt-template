@@ -7,8 +7,9 @@ Welcome to the GBIF PowerPoint template repository. This template is designed to
 Here's what you'll find:
 
 - `GBIF-2023.potx`: This is the PowerPoint template file you should use to create or adapt presentations into the new format.
-- `/ppt-template/toolkit`: This folder contains different presentations with examples and ready-to-use resources such as icons, charts, tables, infographics, and collages. 
+- `/toolkit`: This folder contains different presentations with examples and ready-to-use resources such as icons, charts, tables, infographics, and collages. 
 - `/fonts`: This folder contains the fonts used in the template. If PowerPoint is not including them correctly, you can download them and install them manually from this folder.
+- `/overview-slides`: This folder contains the GBIF overview slide deck updated every quarter. 
 - `/Theme files`: This folder contains PowerPoint files needed in case the template is not carrying over fonts and colors correctly.
 
 
@@ -19,7 +20,8 @@ To use this template, follow these simple steps:
 1. Download the [`GBIF-2023.potx`](https://github.com/gbif/ppt-template/blob/master/GBIF-2023.potx) template file and open it in PowerPoint.
 2. Explore the [`/ppt-template/toolkit`](https://github.com/gbif/ppt-template/tree/master/toolkit) folder and copy/paste any slides or resources you need into your presentation.
 3. Refer to the **instructions** included in the [`/ppt-template/toolkit/Instructions.pptx`](https://github.com/gbif/ppt-template/blob/master/toolkit/Instructions.pptx) for guidelines on using the slides included in the toolkit.
-4. Use the resources and guidelines provided in the template and the toolkit slides to create visually consistent and compelling presentations that effectively communicates your message.
+4. Inside [`/overview-slides`](https://github.com/gbif/ppt-template/tree/master/overview-slides) you will find the GBIF overview slide deck updated quarterly. This slide deck will also be available on GBIF.org.
+5. Use the resources and guidelines provided in the template and the toolkit slides to create visually consistent and compelling presentations that effectively communicates your message.
 
 ## Tips for Creating Effective Presentations
 
