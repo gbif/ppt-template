@@ -1,12 +1,14 @@
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
 
-fonts/.DS_Store
-toolkit/.DS_Store
+~$*.*
 .DS_Store
-toolkit/~$Frequently used.pptx
-~$GBIF-2023.potx
-toolkit/~$Overview slides-2023.pptx
-toolkit/~$Instructions.pptx
-toolkit/~$Hubs.pptx
-toolkit/~$Collages.pptx
-overview-slides/2023/jan-01/~$Overview slides-jan-2023.pptx
-overview-slides/2023/apr-04/~$Overview slides-apr-2023.pptx
+.AppleDouble
+.LSOverride
+._*
